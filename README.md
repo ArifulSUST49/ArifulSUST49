@@ -1,5 +1,5 @@
 # Hi there 👋, I'm MD. Ariful Islam
-##Studied Software Engineering at Shahjalal University of Science and Technology,Sylhet.
+## Studied Software Engineering at Shahjalal University of Science and Technology,Sylhet.
 Always trying to developed my own skills.
 
 - 🔭 I’m currently working on this page. 
